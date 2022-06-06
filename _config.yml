@@ -5,14 +5,13 @@ title: Keunhwan Resume
 email: khgapa@gmail.com
 description: Jekyll Resume is a mega simple resume theme for Jekyll.
 baseurl: ""
-url: "http://mattcouchman.co.uk/jekyll-resume"
+# url: "http://mattcouchman.co.uk/jekyll-resume"
 name: Keunhwan Kim
 job: Robotics Researcher 
-location: Bucheon, Republic of Korea
+location: Korea Electronics Technology Institute, Bucheon, Republic of Korea
 languages: HTML, CSS and Javascript
-twitter_username: mattcouchman
-github_username:  mattcouchman
-codepen_username:  mattcouchman
+github_username:  khgapa
+linkedin_username:  khgapa
 email_address: khgapa@gmail.com
 
 # Build settings
